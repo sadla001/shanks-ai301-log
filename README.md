@@ -1,15 +1,15 @@
-# Contribution [#]: [Issue Title]
+# Contribution [#]: Refactor long functions in modmesh::inout::Gmsh
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** 1 
+**Student:** Shiva Shashank Adlagatta
+**Issue:** [[GitHub issue link] ](https://github.com/solvcon/modmesh/issues/425) 
+**Status:** Phase I Complete
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose issue #425 in the `modmesh` project because it involves C++ code refactoring, which aligns with my interest in backend architecture and clean code practices. The issue requires separating the `is_valid_transition()` function's implementation from its declaration in the header file, as well as optimizing a string parameter to pass by reference. The maintainers have labeled it a "good first issue" and provided explicit code snippets, making it an ideal, well-scoped starting point to learn the repository's structure.
 
 ---
 
